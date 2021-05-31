@@ -1,4 +1,4 @@
-#! /usr/bin/env python
+#! /usr/bin/env python3
 
 """local_bump.py: Bump a local Helm Chart.yaml
 Use case: deploy updated Helm chart and bump the landscape version
